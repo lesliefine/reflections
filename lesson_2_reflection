@@ -1,3 +1,7 @@
 When you initialize a repository, a .git file is created tracking the repo.  You need to do this to let git know to treat the folder as a repo.
 
 A staging area is different from both the working directory and the repo.  It holds the files that you intend to bundle into a commit but haven't yet.  It lets you think through logical groupings.
+
+I can use the staging area to make sure that I am being methodical about my commits.
+
+Branches are super helpful when you want to fork off and work on something while preserving your main line of code.
