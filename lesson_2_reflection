@@ -5,3 +5,7 @@ A staging area is different from both the working directory and the repo.  It ho
 I can use the staging area to make sure that I am being methodical about my commits.
 
 Branches are super helpful when you want to fork off and work on something while preserving your main line of code.
+
+Commit diagrams make it clear how the branches relate to each other.
+
+Merging two branches gives you the combined work in both.
