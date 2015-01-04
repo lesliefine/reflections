@@ -1,0 +1,5 @@
+A diff made it much easier because the +++s and ---s showed me where to focus in.
+
+If I had access to the entire history of a file, I would easily be able to fix broken code, understand what others had done, and revert away changes that didn't work out.
+
+Manually committing definitely puts the onus on the developer to figure out what is meaningful, but seems like it could lead to careless errors.  Auto could lead to too much noice, and uncompilable code.

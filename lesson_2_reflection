@@ -1,0 +1,1 @@
+When you initialize a repository, a .git file is created tracking the repo.  You need to do this to let git know to treat the folder as a repo.
