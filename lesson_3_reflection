@@ -3,3 +3,5 @@ You might want to use a remote repo if you were working away from your main mach
 If git kept your pulls in sync, you might accidentally override work if you are collaborating with someone else.
 
 Forks are ways to split off somewhat permanenetly, whereas a branch is really meant to be remerged later.  A clone is a copy, pure and simple.
+
+If you store the last known state of the remote locally, then it's easy to understand where you have deviated.

@@ -9,3 +9,5 @@ Branches are super helpful when you want to fork off and work on something while
 Commit diagrams make it clear how the branches relate to each other.
 
 Merging two branches gives you the combined work in both.
+
+Automatic merging is super convenient when it's obvious, but the manual override in times of uncertainty makes a ton of sense.
