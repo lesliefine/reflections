@@ -1,1 +1,3 @@
 You might want to use a remote repo if you were working away from your main machine.
+
+If git kept your pulls in sync, you might accidentally override work if you are collaborating with someone else.
